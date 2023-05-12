@@ -1,0 +1,121 @@
+.bi {
+  text-align: center;
+}
+
+
+.a1 {
+  height: 413px;
+  background-image: url(img/a1.jpg);
+  background-size: cover;
+  background-position: top center;
+  transition-duration: 3s;
+  display: flex;
+  justify-content: end;
+}
+
+/* .a1:hover {
+  background-image: url(img/a2.jpg);
+} */
+
+.sale {
+  width: 36px;
+  height: 22px;
+  background-color: #f4826b;
+  color: white;
+}
+
+.color {
+  background-color: #463d48;
+  padding: 50px 0px;
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+}
+
+ul {
+  text-decoration: none;
+  padding-left: 0px;
+}
+
+li {
+  list-style: none;
+  text-decoration: none;
+}
+
+.aa {
+  background: none;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-color: white;
+}
+
+::placeholder {
+  color: white;
+}
+
+.anchor {
+  text-decoration: none;
+  color: white;
+}
+
+.anchor:hover {
+  color: white;
+}
+
+.b {
+  color: red;
+}
+
+.b2 {
+  color: gray;
+}
+
+.aqz {
+  margin: 0px 10px;
+  text-decoration: none;
+  letter-spacing: 1px;
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+/* ***Sliding underline **** */
+text-decoration: none;
+  background-image: linear-gradient(#463d48, #463d48);
+  background-size: 0% 0.1em;
+  background-position-y: 100%;
+  background-position-x: 0%;
+  background-repeat: no-repeat;
+  transition: background-size 0.2s ease-in-out;
+}
+
+
+a:hover,
+a:focus,
+a:active {
+  color: #463d48;
+  background-size: 100% 0.1em;
+}
+
+.ex{
+  margin: 15px;
+  background-size: cover;
+  height: 450px;
+  background-image: url(img/d1.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+.meet{
+  font-family: 'Pacifico', cursive;
+  margin: 10px 0px;
+}
+.btn{
+  background-color: #463d48;
+  color: white;
+  letter-spacing: 2px;
+  font-family: 'Roboto Mono', monospace;
+  transition-duration: 2s;
+}
+.btn:hover{
+  background-color: #746b76;
+  color: white
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
