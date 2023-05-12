@@ -29,6 +29,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
+
+                        </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={x2} className="img-fluid" />
@@ -39,6 +44,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={x3} className="img-fluid" />
@@ -49,6 +59,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={x4} className="img-fluid" />
@@ -59,9 +74,14 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                 </div>
-                <div className="row pt-4">
+                <div className="row pt-5">
                     <div className="col-lg-3">
                         <img src={x5} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
@@ -71,6 +91,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x6} className="img-fluid" />
@@ -81,6 +106,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x7} className="img-fluid" />
@@ -91,6 +121,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x8} className="img-fluid" />
@@ -101,9 +136,14 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                 </div>
-                <div className="row pt-4">
+                <div className="row pt-5 pb-5">
                     <div className="col-lg-3">
                         <img src={x9} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
@@ -113,6 +153,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x10} className="img-fluid" />
@@ -123,6 +168,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x11} className="img-fluid" />
@@ -133,6 +183,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3">
                         <img src={x12} className="img-fluid" />
@@ -143,6 +198,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                 </div>
             </div>
