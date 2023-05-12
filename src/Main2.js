@@ -20,6 +20,11 @@ export default function Main2() {
                         <h5 className='ms-1 me-1 b'>Save 40%</h5>
                     </div>
                     <p><b>Free delivery</b></p>
+                    <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                 </div>
                 <div className="col-lg-3 col-md-6  col-sm-12  ">
                     <img src={home1} className='img-fluid' />

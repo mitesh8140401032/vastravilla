@@ -7,6 +7,7 @@ export default function Reactrouter() {
         <BrowserRouter>
             <Routes>
                 <Route path='/' element={<Salwar_Suit />} />
+
             </Routes>
         </BrowserRouter>
     )

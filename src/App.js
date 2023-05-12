@@ -8,23 +8,29 @@ import Saree from './Saree';
 import Stitched from './Stitched';
 import Wedding from './Wedding';
 import Lehengas from './Lehengas';
+import Test from './test';
 
 
 
-function App() {
+export default function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/Saree' element={<Saree />} />
+        <Route path='/test' element={<Test />} />
+
         <Route path='/salwarSuit' element={<Salwar_Suit />} />
         <Route path='/Stitched' element={<Stitched />} />
         <Route path='/wedding' element={<Wedding />} />
         <Route path='/Lehengas' element={<Lehengas />} />
-        
+
       </Routes>
     </BrowserRouter>
   );
 }
 
-export default App;
+
+
+// img dowland
+// shopkund.com
