@@ -20,7 +20,7 @@
 .color {
   background-color: #463d48;
   padding: 50px 0px;
-  color: white;
+  color: gray;
   font-family: 'Roboto Mono', monospace;
 }
 
@@ -33,22 +33,35 @@ li {
   list-style: none;
   text-decoration: none;
 }
-
+li:hover{
+  color: white;
+}
 .aa {
   background: none;
   border-left: none;
   border-right: none;
   border-top: none;
+  border-color: gray;
+  color: white;
+}
+.aa:hover{
   border-color: white;
 }
-
 ::placeholder {
-  color: white;
+  color: gray;
 }
 
+.xc{
+  color: gray;
+  font-size: 25px;
+  margin: 5px;
+}
+.xc:hover{
+  color: white;
+}
 .anchor {
   text-decoration: none;
-  color: white;
+  color: gray;
 }
 
 .anchor:hover {
@@ -98,6 +111,7 @@ a:active {
 .meet{
   font-family: 'Pacifico', cursive;
   margin: 10px 0px;
+  letter-spacing: 3.5px;
 }
 .btn{
   background-color: #463d48;
@@ -148,7 +162,8 @@ a:active {
   top: 0;
   right: 0;
   z-index: -1;
-  background-color: #663dff;
+  background-color: white;
+  
   border-radius: 5px;
   box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5),
     7px 7px 20px 0px rgba(0, 0, 0, .1),
@@ -157,7 +172,7 @@ a:active {
 }
 
 .btn-15:hover {
-  color: #fff;
+  color: black;
 }
 
 .btn-15:hover:after {
@@ -168,7 +183,9 @@ a:active {
 .btn-15:active {
   top: 2px;
 }
-
+.qw:hover{
+  color: white;
+}
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');

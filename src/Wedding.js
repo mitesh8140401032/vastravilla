@@ -22,6 +22,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z2} className="img-fluid" />
@@ -32,6 +37,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z3} className="img-fluid" />
@@ -42,6 +52,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z4} className="img-fluid" />
@@ -52,9 +67,14 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                 </div>
-                <div className="row pt-4">
+                <div className="row pt-4 pb-5">
                     <div className="col-lg-3 mt-3">
                         <img src={z} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
@@ -64,6 +84,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z2} className="img-fluid" />
@@ -74,6 +99,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z3} className="img-fluid" />
@@ -84,6 +114,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                     <div className="col-lg-3 mt-3">
                         <img src={z4} className="img-fluid" />
@@ -94,6 +129,11 @@ export default function Wedding() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
+                          <div className="">
+                        <button class="custom-btn btn-15">Add Cart</button>
+                        <button class="custom-btn btn-15">Buy</button>
+
+                    </div>
                     </div>
                 </div>
             </div>
