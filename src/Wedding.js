@@ -13,7 +13,7 @@ export default function Wedding() {
             <div className="container text-center">
                 <h1 className='meet'>Wedding</h1>
                 <div className="row">
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={z} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -28,7 +28,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-3">
                         <img src={z2} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -43,7 +43,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-3">
                         <img src={z3} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -58,7 +58,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-3">
                         <img src={z4} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -74,8 +74,8 @@ export default function Wedding() {
                     </div>
                     </div>
                 </div>
-                <div className="row pt-4 pb-5">
-                    <div className="col-lg-3 mt-3">
+                <div className="row  pb-5">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={z} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -90,7 +90,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={z2} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -105,7 +105,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={z3} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -120,7 +120,7 @@ export default function Wedding() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={z4} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">

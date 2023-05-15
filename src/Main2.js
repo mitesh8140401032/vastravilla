@@ -8,10 +8,10 @@ import home5 from './img/aq2.jpeg'
 export default function Main2() {
     return (
         <><div className="container text-center">
-            <h1 className='mt-5 meet' >Home </h1>
+            <h1 className=' meet' >Home </h1>
 
             <div className="row d-flex justify-content-center">
-                <div className="col-lg-3 col-md-6  col-sm-12  ">
+                <div className="col-lg-3  col-md-6  col-sm-12 mt-4  ">
                     <img src={home1} className='img-fluid' />
                     <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -26,7 +26,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6  col-sm-12  ">
+                <div className="col-lg-3  col-md-6  col-sm-12 mt-4  ">
                     <img src={home1} className='img-fluid' />
                     <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -40,7 +40,7 @@ export default function Main2() {
                         <button class="custom-btn btn-15">Buy</button>
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6  col-sm-12 ">
+                <div className="col-lg-3  col-md-6  col-sm-1 mt-4 ">
                     <img src={home1} className='img-fluid' />
 
                     <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
@@ -55,7 +55,7 @@ export default function Main2() {
                         <button class="custom-btn btn-15">Buy</button>
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6  col-sm-12 ">
+                <div className="col-lg-3  col-md-6  col-sm-1 mt-4 ">
                     <img src={home1} className='img-fluid' />
                     <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -70,8 +70,8 @@ export default function Main2() {
                     </div>
                 </div>
             </div>
-            <div className="row pt-5 pt-5  d-flex justify-content-center ">
-                <div className="col-lg-3 col-md-6 col-sm-12 ">
+            <div className="row  d-flex justify-content-center ">
+                <div className="col-lg-3  col-md-6 col-sm-1 mt-4 ">
                     <img src={home2} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -86,7 +86,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home2} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -101,7 +101,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home2} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -116,7 +116,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home2} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -131,8 +131,8 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="row pt-5">
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="row">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home4} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -147,7 +147,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home4} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -162,7 +162,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home4} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -177,7 +177,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home4} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -194,8 +194,8 @@ export default function Main2() {
                     </div>
                 </div>
             </div>
-            <div className="row pt-5  text-center">
-                <div className="col-lg-3 col-md-6 col-sm-12 ">
+            <div className="row   text-center">
+                <div className="col-lg-3  col-md-6 col-sm-1 mt-4 ">
                     <img src={home3} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -210,7 +210,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home3} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -225,7 +225,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home3} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -240,7 +240,7 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                     <img src={home3} className='img-fluid' />
                     <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                     <div className="d-flex align-items-center justify-content-center">
@@ -255,8 +255,8 @@ export default function Main2() {
 
                     </div>
                 </div>
-                <div className="row pt-5 pb-5">
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                <div className="row  pb-4">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home5} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -271,7 +271,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home5} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -286,7 +286,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home5} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -301,7 +301,7 @@ export default function Main2() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12  ">
+                    <div className="col-lg-3  col-md-6 col-sm-12 mt-4  ">
                         <img src={home5} className='img-fluid' />
                         <p>Amber Yellow Woven Chikankari Banarasi Saree [Machine Work]</p>
                         <div className="d-flex align-items-center justify-content-center">

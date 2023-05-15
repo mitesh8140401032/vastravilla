@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Footer() {
     return (
@@ -7,8 +8,12 @@ export default function Footer() {
                 <div className="row">
                     <div className="col-lg-4 mt-3">FOOTER MENU
                         <ul>
-                            <li>Search</li>
-                            <li>About Us</li>
+                            <li><Link className='li' to={'/Saree'} >Saree</Link></li>
+                            <li><Link className='li' to={'/salwarSuit'} >Salwar_suit</Link></li>
+                            <li><Link className='li' to={'/Stitched'} >Stitched</Link></li>
+                            <li><Link className='li' to={'/wedding'} >Wedding</Link></li>
+                            <li><Link className='li' to={'/Lehengas'} >Lehengas</Link></li>
+                            <li><Link className='li' to={'/About'} >About</Link></li>
                             <li>Blogs</li>
                             <li>Contact Us</li>
                             <li>Privacy Policy</li>

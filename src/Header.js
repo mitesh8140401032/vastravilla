@@ -22,7 +22,8 @@ export default function Header() {
                             <Link className='aqz' to={'/Stitched'}>Stitched</Link>
                             <Link className='aqz' to={'/wedding'}>Wedding</Link>
                             <Link className='aqz' to={'/Lehengas'}>Lehengas</Link>
-                            
+                            <Link className='aqz' to={'/About'}>About</Link>
+                            <button className='m-0 p-0' ><Link className='aqz' to={'/Login'}>Login</Link></button>
                         </Nav>
                     </Navbar.Collapse>
                 </Container>

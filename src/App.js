@@ -9,6 +9,9 @@ import Stitched from './Stitched';
 import Wedding from './Wedding';
 import Lehengas from './Lehengas';
 import Test from './test';
+import About from './About';
+import Login from './Login';
+import Data from './Data';
 
 
 
@@ -24,6 +27,12 @@ export default function App() {
         <Route path='/Stitched' element={<Stitched />} />
         <Route path='/wedding' element={<Wedding />} />
         <Route path='/Lehengas' element={<Lehengas />} />
+        <Route path='/About' element={<About />} />
+        <Route path='/Login' element={<Login />} />
+        <Route path='/Data' element={<Data />} />
+
+
+
 
       </Routes>
     </BrowserRouter>

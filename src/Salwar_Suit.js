@@ -8,7 +8,7 @@ export default function Salwar_Suit() {
             <div className="container text-center ">
                 <h1 className='meet'>Salwar_Suit</h1>
                 <div className="row d-flex justify-content-center align-itmes-center  pb-5 ">
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -23,7 +23,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
 
@@ -40,7 +40,7 @@ export default function Salwar_Suit() {
                     </div>
 
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -55,7 +55,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -73,7 +73,7 @@ export default function Salwar_Suit() {
                 </div>
                 <div className="row d-flex justify-content-center  text-center">
 
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -88,7 +88,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -103,7 +103,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -118,7 +118,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -134,8 +134,8 @@ export default function Salwar_Suit() {
                     </div>
                     </div>
                 </div>
-                <div className="row d-flex justify-content-center pt-5 pb-5 text-center">
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                <div className="row d-flex justify-content-center  pb-4 text-center">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -150,7 +150,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -165,7 +165,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -180,7 +180,7 @@ export default function Salwar_Suit() {
 
                     </div>
                     </div>
-                    <div className="col-lg-3 col-md-6 col-sm-12">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={Salwar} className='img-fluid' />
                         <p>Saree is a beautiful garment that covers <br /> enough to make a woman look elegant <br /> yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">

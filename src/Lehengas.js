@@ -20,7 +20,7 @@ export default function Lehengas() {
             <div className="container text-center">
                 <h1 className="meet">Lehengas</h1>
                 <div className="row">
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4 mt-4">
                         <img src={x} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -35,7 +35,7 @@ export default function Lehengas() {
 
                         </div>
                     </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4 mt-4">
                         <img src={x2} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -44,13 +44,13 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x3} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -59,13 +59,13 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3 mt-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x4} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -74,107 +74,107 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
-                    </div>
+                        </div>
                     </div>
                 </div>
                 <div className="row pt-5">
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x5} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x6} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x7} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x8} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
-                    </div>
+                        </div>
                     </div>
                 </div>
                 <div className="row pt-5 pb-5">
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x9} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x10} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
                             <h3 className='ms-1 me-1  '>₹3999</h3>
                             <h6 className='ms-1 me-1 b2 fs-6'>MRP:-<del>₹6500</del></h6>
-                            <h5 className='ms-1 me-1 b'>Save 40%</h5>
+                            <h5 className='ms-1 me-1 b'>Save 0%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x11} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -183,13 +183,13 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
+                        </div>
                     </div>
-                    </div>
-                    <div className="col-lg-3">
+                    <div className="col-lg-3 col-md-6 col-sm-12 mt-4">
                         <img src={x12} className="img-fluid" />
                         <p>Saree is a beautiful garment that covers  enough to make a woman look elegant  yet bare enough to make her look sexy. </p>
                         <div className="d-flex align-items-center justify-content-center">
@@ -198,11 +198,11 @@ export default function Lehengas() {
                             <h5 className='ms-1 me-1 b'>Save 40%</h5>
                         </div>
                         <p><b>Free delivery</b></p>
-                          <div className="">
-                        <button class="custom-btn btn-15">Add Cart</button>
-                        <button class="custom-btn btn-15">Buy</button>
+                        <div className="">
+                            <button class="custom-btn btn-15">Add Cart</button>
+                            <button class="custom-btn btn-15">Buy</button>
 
-                    </div>
+                        </div>
                     </div>
                 </div>
             </div>
