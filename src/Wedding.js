@@ -7,7 +7,7 @@ import z4 from './img/z4.jpg'
 import z5 from './img/z5.jpg'
 
 
-export default function Wedding() {
+export default function Wedding() { 
     return (
         <Layout>
             <div className="container text-center">

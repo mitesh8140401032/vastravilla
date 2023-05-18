@@ -22,7 +22,6 @@ export default function App() {
         <Route path='/' element={<Home />} />
         <Route path='/Saree' element={<Saree />} />
         <Route path='/test' element={<Test />} />
-
         <Route path='/salwarSuit' element={<Salwar_Suit />} />
         <Route path='/Stitched' element={<Stitched />} />
         <Route path='/wedding' element={<Wedding />} />
@@ -30,10 +29,6 @@ export default function App() {
         <Route path='/About' element={<About />} />
         <Route path='/Login' element={<Login />} />
         <Route path='/Data' element={<Data />} />
-
-
-
-
       </Routes>
     </BrowserRouter>
   );

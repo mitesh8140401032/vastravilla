@@ -39,7 +39,7 @@ export default function Login() {
                     <div class="login">
                         <form>
                             <label for="chk" >Login</label>
-                            <input type="text" value={name} onChange={handlename} placeholder="User name" />
+                            
                             <input type="email" value={email} onChange={handleemail} placeholder="Email" />
                             <input type="password" value={password} onChange={handlepassword} placeholder="Password" />
                             <button onClick={ok} ><Link to="/Data">Sign up</Link> </button>

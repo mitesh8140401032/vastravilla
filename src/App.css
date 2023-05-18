@@ -1,5 +1,6 @@
 .bi {
   text-align: center;
+
 }
 .a1 {
   height: 413px;
@@ -293,5 +294,31 @@ button:hover {
   transform: scale(.6);
 }
 
+.aaa{
+  width: 20%;
+  height: 850px;
+  background-color: #0f0c29;
+  color: white;
+}
+.bbb{
+  max-width: 80%;
+  height: 850px;
+  background-color: gray;
+  color: white;
+}
+.bbb2{
+  display: none;
+}
+@media only screen and (max-width: 950px) {
+  .aaa {
+    display: none;
+  }
+  .bbb{
+    max-width: 100%;
+  }
+  .bbb2{
+    display: block;
+  }
+}
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
