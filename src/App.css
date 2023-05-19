@@ -303,11 +303,13 @@ button:hover {
 .bbb{
   max-width: 80%;
   height: 850px;
-  background-color: gray;
-  color: white;
+  
 }
 .bbb2{
+  width: 150px;
   display: none;
+  margin: 0px;
+  padding: 0px;
 }
 @media only screen and (max-width: 950px) {
   .aaa {
@@ -319,6 +321,13 @@ button:hover {
   .bbb2{
     display: block;
   }
+}
+.m{
+  width: 100%;
+  height: 50px;
+  
+  margin: 0px;
+  padding: 0px;
 }
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
